@@ -1,4 +1,4 @@
-class PessoaModel {
+class ClienteModel {
 
      /**
      * Construtor do objeto modelo para usuários
@@ -20,4 +20,4 @@ class PessoaModel {
     }
 }
 
-export default PessoaModel
+export default ClienteModel
