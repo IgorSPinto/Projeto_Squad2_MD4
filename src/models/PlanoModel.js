@@ -1,6 +1,6 @@
 class PlanoModel {
     /**
-    * Construtor do objeto modelo para usuários
+    * Construtor do objeto modelo para planos
     * @param {string} titulo 
     * @param {string} descricao  
     * @param {number} preco 
